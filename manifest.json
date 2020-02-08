@@ -1,14 +1,14 @@
 {
   "manifest_version": 2,
 
-  "name": "Modify CSS and HTML",
+  "name": "FB Trimmer",
   "version": "0.1.0",
-  "description": "Lateral blog post demo extension",
+  "description": "FB simplifier extension",
 
   "content_scripts": [{
     "css": ["styles.css"],
     "js": ["content.js"],
-    "matches": ["https://blog.lateral.io/*"]
+    "matches": ["https://www.facebook.com/*"]
   }]
 
 }

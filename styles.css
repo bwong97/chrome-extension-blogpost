@@ -1,18 +1,19 @@
-body {
-  background: url('https://media.giphy.com/media/3o7WTDJQVuYwhhuLhC/giphy.gif') !important;
+/* FB Watch-Marketplace-Groups */
+li.buofh1pr.sh5w5s28.hmtkhpl9.msj552ym.n29o3yo6.o8bf5wz4.h676nmdw.hw7htvoc {
+  display: none;
 }
 
-#masthead,
-#primary {
-  -webkit-filter: invert(100%);
-  filter: invert(100%);
-  background-color: #fff;
-  padding: 20px !important;
+/* Right Column (Contacts and Birthdays) */
+div.ahb00how.fer614ym.dp1hu0rb.pzfvarvs.buofh1pr.ftbm7790 {
+  visibility: hidden;
 }
-#masthead {
-  background: none;
+
+/* Left Column (Home, Shortcuts, Explore) */
+div.tojvnm2t.a6sixzi8.rq0escxv.a8s20v7p.k5wvi7nf.buofh1pr.pfnyh3mw.cebpdrjk.sn7ne77z.oqhjfihn.l9j0dhe7.du4w35lb {
+  visibility: hidden;
 }
-#masthead img, #primary img {
-  -webkit-filter: invert(100%);
-  filter: invert(100%);
+
+/* Hide Stories */
+div.h3ox8jsk.d2edcug0 {
+  display: none;
 }
